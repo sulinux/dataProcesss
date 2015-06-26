@@ -1,0 +1,12 @@
+<?xml version="ws_2.0"?>
+<opencv_storage>
+<Factor>0.5</Factor>
+<ScaleFactor>1.2</ScaleFactor>
+<MinNeighbors>1</MinNeighbors>
+<WinSize_Min>80</WinSize_Min>
+<WinSize_Max>1000</WinSize_Max>
+<Group_EPS>0.4</Group_EPS>
+<Group_Type>1</Group_Type><!-- 1:mean 2:max -->
+<Classifier_Model>face_front3.xml</Classifier_Model>
+<CreditVal>0</CreditVal>
+</opencv_storage>

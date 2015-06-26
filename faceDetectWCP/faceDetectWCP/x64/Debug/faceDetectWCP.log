@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\dzp\documents\visual studio 2012\projects\facedetectwcp\facedetectwcp\opencv2/core/mat.hpp(1413): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\dzp\documents\visual studio 2012\projects\facedetectwcp\facedetectwcp\FaceDetection.h(35): warning C4251: “CFaceDetection::m_strClassifier_Model”: class“std::basic_string<_Elem,_Traits,_Alloc>”需要有 dll 接口由 class“CFaceDetection”的客户端使用
+          with
+          [
+              _Elem=char,
+              _Traits=std::char_traits<char>,
+              _Alloc=std::allocator<char>
+          ]
+  faceDetectWCP.vcxproj -> C:\Users\DZP\Documents\Visual Studio 2012\Projects\faceDetectWCP\x64\Debug\faceDetectWCP.exe
